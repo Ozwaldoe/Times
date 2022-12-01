@@ -1,9 +1,9 @@
 [1] Anthoky        ||  6.899s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=LggeWro02ik
-[2] Anthoky        ||  6.983s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=uHYEq9TOVPE (2)
-[3] Anthoky        ||  7.033s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=mRyQQwpCjNg (3)
+[2] Anthoky    (2) ||  6.983s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=uHYEq9TOVPE
+[3] Anthoky    (3) ||  7.033s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=mRyQQwpCjNg
 [4] Repays         ||  7.216s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=QxrgKz-U0kk
 [5] Mac501pl       ||  7.249s  || K&M         ||  Mark  ||  No Video Avaliable Anymore
-[6] Anthoky        ||  7.299s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=0lml05g0gAs (4)
+[6] Anthoky    (4) ||  7.299s  || Controller  ||  Mark  ||  https://www.youtube.com/watch?v=0lml05g0gAs (4)
 [7] cookedb        ||  7.533s  || K&M         ||  Mark  ||  https://www.youtube.com/watch?v=8FRbI2dCJio
 [8] ZObrOS_PL      ||  7.683s  || K&M         ||  Mark  ||  https://www.youtube.com/watch?v=3-f31-qO-SE
 [9] Unknown_birds  ||  7.799s  || K&M         ||  Mark  ||  https://www.youtube.com/watch?v=3-f31-qO-SE
